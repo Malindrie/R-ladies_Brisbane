@@ -21,6 +21,3 @@ docker run -p 3838:3838 maldharm/scrna:seq
 ```
 
 Once launch the container, you can access the R ShinyApp on your browser using `http://localhost:3838/`
-
-
-

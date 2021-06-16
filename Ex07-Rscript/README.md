@@ -11,5 +11,5 @@ docker build . -t maldharm/rscript:myscript
 As we saw before, to launch the container use:
 
 ``` shell
-docker run -it --rm -v c:\Users\Malindrie\R-ladies\Examples\Ex4-Rscript\01_data:/01_data -v c:\Users\Malindrie\R-ladies\Examples\Ex4-Rscript\03_output:/03_output maldharm/rscript:myscript
+docker run -it --rm -v /"R-Script in Docker"/01_data:/01_data -v ~/"R-Script in Docker"/03_output:/03_output maldharm/rscript:myscript
 ```
