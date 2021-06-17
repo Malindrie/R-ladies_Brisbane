@@ -7,4 +7,7 @@
 <!-- badges: end -->
 
 Materials for R-ladies Brisbane workshop about Introduction to using
-Docker for reproducibility in R
+Docker for reproducibility in R.
+
+(Some of the examples have been adopted from
+<https://github.com/RamiKrispin/R-Ladies-Tunis>)
